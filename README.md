@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/built%20with-Power%20BI-yellow?style=flat&logo=powerbi)
+
 # 🎓 Students Analytics Dashboard – Power BI
 
 An interactive Power BI dashboard analyzing student-related data, including applicants, students, graduates, dropouts, departments, classes, and courses.
